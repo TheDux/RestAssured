@@ -1,6 +1,6 @@
 # RestAssured
 
-Trocar a versão da library JSE no projeto
+Trocar a versão da library JRE no projeto
 
 Selecionar Workspace default JRE no Classpath container/ select JRE for the project build path
 
